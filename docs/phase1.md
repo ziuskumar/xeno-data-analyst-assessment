@@ -97,7 +97,7 @@ Therefore, the campaign table contains no campaigns belonging to another merchan
 
 `GROUP BY merchant_id` groups campaigns by merchant.
 
-`COUNT(*)` counts the campaigns in each group.
+`COUNT(*)` counts the campaigns in each group..
 
 `ORDER BY merchant_id` only controls the display order.
 
