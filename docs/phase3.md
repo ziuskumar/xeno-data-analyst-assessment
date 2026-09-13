@@ -13,7 +13,7 @@ After completing Phase 2, the baseline was:
         ↓
 30 rows after scope filters
         ↓
-26 eligible rows after campaign eligibility rules
+26 eligible rows after campaign eligibility ruless
         ↓
 Finance target_base = 22
 ```
