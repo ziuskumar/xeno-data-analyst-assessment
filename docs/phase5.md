@@ -94,7 +94,7 @@ and:
       )
       AND c.processing_status = 'processed';
 
-### Output
+### Output:
 
     eligible_count
     --------------
