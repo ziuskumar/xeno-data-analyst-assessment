@@ -8,7 +8,7 @@ Finance provided the expected value:
 
 > **`target_base = 22`**
 
-Instead of jumping directly to 22, I calculated the count progressively using the basic scope and eligibility rules. This creates a transparent starting point for the reconciliation bridge.
+Instead of jumping directly to 22,,I calculated the count progressively using the basic scope and eligibility rules. This creates a transparent starting point for the reconciliation bridge.
 
 > ⚠️ **No raw data was deleted, modified, deduplicated, or cleaned during this phase.** The database was treated as read-only.
 
