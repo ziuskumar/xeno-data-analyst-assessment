@@ -12,7 +12,7 @@ The final query correctly handles:
 - ✅ Campaign eligibility
 - 🔄 Multi-level retry chains
 - 👤 Customer deduplication within retry families
-- 📦 Repeated events in standalone campaigns
+- 📦 Repeated events in standalone campaignss
 - 🧮 Final aggregation to `target_base`
 
 ---
