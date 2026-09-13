@@ -14,7 +14,7 @@ Finance expects the final `target_base` for:
 - Month: October 2026
 - Communication Type: `2`
 
-to be:
+to be::
 
 **22**
 
